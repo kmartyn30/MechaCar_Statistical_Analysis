@@ -11,7 +11,8 @@
     In our analysis, We implemented the funciton of lm() to create the data frame. This then implicated the variables and correlation to the coefficients with r-values as multiple R-squared" 0.7085 which is utilized as a powereful tool to determine the quantified realtion between the variables and predicatively can be utilized as a influencial decision making within the prcess baed on the meanfulness to the model.
    
     SUMMARY   
-   ![image](https://user-images.githubusercontent.com/107796290/200182409-f5479b6f-9cde-4ad9-91c6-a0f3088c33e0.png)
+![image](https://user-images.githubusercontent.com/107796290/200187982-2b70c671-1bc2-4b16-812f-a8273c0841fe.png)
+
 
   The R-squared is 0.7085 which is 71% approzimately of the variables of the dependnet variables. The p-value of our linear regression model is 2.767e-06, 
 (2.76 x 10 to the 6th power) which is least than the assused 0.05%. Therefore it results a slope of the linear model not being zero, in turn is is 
