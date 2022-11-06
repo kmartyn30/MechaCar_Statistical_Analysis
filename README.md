@@ -14,10 +14,9 @@
   The R-squared is 0.7085 which is 71% approzimately of the variables of the dependnet variables. The p-value of our linear regression model is 2.767e-06, 
 (2.76 x 10 to the 6th power) which is least than the assused 0.05%. Therefore it results a slope of the linear model not being zero, in turn is is 
 suffiencent to reject the null hypythosis. 
-  The adjusted R-squared as 0.6524 which means there is a likelihood that the probablity that the date points will fit the linear model. 
-  Therefore 
+  The adjusted R-squared as 0.6524 which means there is a likelihood that the probablity that the date points will fit the linear model. Therefore  
     
-    As you can see in the data for the multiple linear regression model for predictive modeling tool to measure p-value as 2.767e-06 so that this will be a fail to reject the null hypothesis which quantifies suffiencent level to reject the null hypothesis of the paired t-test. This implicates there is limited to no distribution difference across the mpg dataset. 
+    As you can see in the data for the multiple linear regression model for predictive modeling tool to measure p-value as 2.767e-06 so that this will be a fail to reject the null hypothesis which quantifies suffiencent level to reject the null hypothesis of the paired t-test. This implicates there is limited to no distribution difference across the mpg dataset. A well designed linear regression model should approximate the two data points with a strong interrelationship within the two or more data variables points. 
    
    The Slope of the linear model as you can see is not considered to be 0 due to 
     
