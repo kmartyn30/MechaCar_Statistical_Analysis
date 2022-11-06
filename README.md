@@ -20,9 +20,8 @@ suffiencent to reject the null hypythosis.
   Therefore 
     
     As you can see in the data for the multiple linear regression model for predictive modeling tool to measure p-value as 2.767e-06 so that this will be a fail to reject the null hypothesis which quantifies suffiencent level to reject the null hypothesis of the paired t-test. This implicates there is limited to no distribution difference across the mpg dataset. 
-    
-    
- The Slope of the linear model as you can see is not considered to be 0 due to 
+   
+   The Slope of the linear model as you can see is not considered to be 0 due to 
     
     
  The Liner model predict mpg of MechaCar prototypes can be see as 
@@ -32,8 +31,12 @@ suffiencent to reject the null hypythosis.
 
   Deliverable 2:
 
- Summary Statistics on Suspension Coils
-                                                   
+ Summary Statistics on Suspension Coils:
+ 
+ Total summary of supsesion coils calcluating the mean, mode, variance and standard deviation.
+ 
+    ![image](https://user-images.githubusercontent.com/107796290/200187867-7d04bbf4-7495-41d2-85ad-c6607489e428.png)
+                                               
 
 The MechaCar suspension coils imposed that the variaence must not outperforne the 100 pounds per square inch for the suspesion coils. The prevailing manufacturing data             this designs specification baedon the lot total for manufacturing lots and indivdual lot seperatly. 
 
