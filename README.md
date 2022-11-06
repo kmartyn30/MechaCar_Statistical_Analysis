@@ -20,10 +20,14 @@ suffiencent to reject the null hypythosis.
   The adjusted R-squared as 0.6524 which means there is a likelihood that the probablity that the date points will fit the linear model. 
     Therefore 
     
-    As you can see in the data for the multiple linear regression model for pur predictive modieling tool to measure 
+    As you can see in the data for the multiple linear regression model for predictive modieling tool to measure p-value as 2.767e-06 so that this will be a fail to reject the null hypothesis which quantifies suffiencent envenet to reject the null hypothesis of the paired t-test. This implicates there is limited to no distribution difference across the mpg dataset. 
     
     
-    The Slope of the linear model as you can see is considered not to be 
+    The Slope of the linear model as you can see is not considered to be 0 due to 
+    
+    
+    The Liner model predict mpg of MechaCar prototypes can be see as 
+    
 
    
    
