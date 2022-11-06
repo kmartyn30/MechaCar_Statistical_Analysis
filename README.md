@@ -1,4 +1,5 @@
-# MechaCar_Statistical_Analysis- R language ggplot and statistics
+# MechaCar_Statistical_Analysis (R language ggplot and statistics)
+
 **Deliverable 1:**
 
 ## Linear regression to Predict MPG
@@ -83,6 +84,8 @@ The third t-test results for data suspension data for Manufacturing Lot 3 t = -2
 **
 Deliverable 4
 ## Study Designs: MechaCar vs Competition
+The purpose of the statistical analysis was designed to study comparing MechaCar to the Competition. In this study were to use metric(s) tests; the null hypothiss or alternative hypothesis; a statistical test for assessing the hypothesis including several reasons. Lastly, determine if the data requiresto run the statistical test.
 
-The statistical analysis was designed to study comparing MechaCar to the Competition. The cost and city highway fuel effiency was reviewed to compare against the competitors. 
+The first use of
+The cost and city highway fuel effiency was reviewed to compare against the competitors. 
 
