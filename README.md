@@ -59,21 +59,22 @@ Manufacturing Lot 1:
 ![image](https://user-images.githubusercontent.com/107796290/200192977-88b823a9-a34c-460c-8455-aea2e88e3a6f.png)
 
 **
-The hypothesis test  will show how the dataset in which there are five steps to the process. I will review the sets frist then projec the three lots statistical results and outcomes. First, gereate the null hypothesis, corressopnding alternative and significant levels. Secondly, identfy and assess the truth of the null hypostesis as a statistical analysis. 3. Compute the p-value. 4. Compare the significant level and the p-value. 5. Determine the null hypothesis and generate a conclusiont of reject or fail to reject. 
+The hypothesis test  will show how the dataset in which there are five steps to the process. I will review the sets frist then projec the three lots statistical results and outcomes. First, gereate the null hypothesis, corressopnding alternative and significant levels. Secondly, identfy and assess the truth of the null hypostesis as a statistical analysis. 3. Compute the p-value or probability value. 4. Compare the significant level and the p-value. 5. Determine the null hypothesis and generate a conclusiont of reject or fail to reject. 
 
-The overall interpertation of the t-test result findings were for the first lot data: suspension data, Manufacturing Lot 1
-= 0, df = 49, p-value = 1
+The overall interpertation of the t-test result findings were for the first lot data: suspension data, Manufacturing Lot 1 
+= 0, df = 49, p-value = 1 
 alternative hypothesis: true mean is not equal to 1500 meaning the observations and measurements used in our statistical test should have been attributed to random chance, but we attributed them to something else.
 95 percent confidence interval: 1499.719 1500.281. The sample estimates: mean of x  1500 
 
 
 ![2022-11-06 15 32 26](https://user-images.githubusercontent.com/107796290/200193665-c42682ca-1c53-421b-9507-98f377f6b805.png)
 
-The Second overall interperation of the t-test results were data:  subset(suspension_data, Manufacturing_Lot == "Lot2")$PSI
-t = 0.51745, df = 49, p-value = 0.6072
-alternative hypothesis: true mean is not equal to 1500
-95 percent confidence interval:
- 1499.423 1500.977
-sample estimates:
-mean of x 
-   1500.2 
+The Second overall interperation of the t-test results were data for suspension data,for Manufacturing Lot 2
+t = 0.51745, df = 49, probabilty value = 0.6072 alternative hypothesis: true mean is not equal to 1500
+95 percent confidence interval:1499.423 to 1500.977 this shows that there is a slight left skewness or negative skewed within the dataset so that it implicated there are negative numbers in the dataset. Sample estimates: mean of x 1500.2.  
+
+
+
+![image](https://user-images.githubusercontent.com/107796290/200194858-bfb0d56b-9af2-42f3-8d1d-fd19a5c40416.png)
+
+The third t-test results for data suspension data for Manufacturing Lot 3 t = -2.0916, df = 49, probability value is 0.04168 which is less than 0.05 as per the Shapiro-Wilk test for p-value.  The t-test results were alternative hypothesis, stated true mean is not equal to 1500. This mean that if the dataset is smaller or the skewness is overall fewer than the distribution more action is needed. As a result, 95 percent confidence interval:1492.431 1499.849. The sample estimates is the mean of 1496.14.
