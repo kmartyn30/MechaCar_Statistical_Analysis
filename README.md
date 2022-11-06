@@ -36,17 +36,14 @@
 Summary 
 ![image](https://user-images.githubusercontent.com/107796290/200188693-061ce89d-146e-4944-8604-759b101eb1b1.png)
 
-  As you can see within the total summary the 1 manufacturing lot mean was 1500 and meadian was the same 1500. The summary mean was in a close range. while the median was exactly on target. The variance for lot 1 was 0.9795918 which was dynamically in a different level from the summary. The standard deviation was 0.9897433 again lowed than the trending summary. Manufacturing lot 2 mean consisted of 1,500.20 similarly to the summary and lot 1. Lot 2 mean was exactly the same as lot 1 1,500.0 however the varience was 7.4693878 slightly highter than manufacture lot 1 and low than the summary.  The standard deviation was 2.7330181 which reflected highter level than lot 1 however lower than the summary. 
- Lastly. Manufacturing lot 3 mean was 1,496.14 close to that of the summary and lot 1 and 2. The median was 1,498.50 similarly the same. The varience was 170.2861224which was very high comparable to the two manufacturing datasets and the summary. 
+  As you can see within the total summary the 1 manufacturing lot mean was 1500 and meadian was the same 1500. In this situation the mean and median are the same value, so there is minimal impact to downstream analysis reflecting no skew. The summary mean was in a close range. while the median was exactly on target. The variance for lot 1 was 0.9795918 which was dynamically in a different level from the summary. The standard deviation was 0.9897433 again lowed than the trending summary. Manufacturing lot 2 mean consisted of 1,500.20 similarly to the summary and lot 1. Lot 2 mean was exactly the same as lot 1 1,500.0 however the varience was 7.4693878 slightly highter than manufacture lot 1 and low than the summary.  The standard deviation was 2.7330181 which reflected highter level than lot 1 however lower than the summary. 
+ Lastly. Manufacturing lot 3 mean was 1,496.14 close to that of the summary and lot 1 and 2. The median was 1,498.50 similarly the same of 1500.0 however this may implicate skewed data distribution. The varience was 170.2861224which was very high comparable to the two manufacturing datasets and the summary. 
  
-
-
 Lot SUMMARY   
 ![image](https://user-images.githubusercontent.com/107796290/200187982-2b70c671-1bc2-4b16-812f-a8273c0841fe.png)
 
-                                               
-
-The MechaCar suspension coils imposed that the varience must not out perform the 100 pounds per square inch for the suspension coils. The prevailing manufacturing data             this designs specification baed on the three manufacturing lots. 
+                                              
+ The MechaCar suspension coils imposed that the varience must not out perform the 100 pounds per square inch for the suspension coils. The prevailing manufacturing data suggests that this designs specification based on the three manufacturing lots. 
 
 This was determined by ________
 
@@ -57,6 +54,26 @@ This was determined by ________
 
 Deliverable 3
 T-Tests on Suspension Coils
-**
 
-The overall interpertaltion of the t-test result findings were:
+Manufacturing Lot 1:
+![image](https://user-images.githubusercontent.com/107796290/200192977-88b823a9-a34c-460c-8455-aea2e88e3a6f.png)
+
+**
+The hypothesis test  will show how the dataset in which there are five steps to the process. I will review the sets frist then projec the three lots statistical results and outcomes. First, gereate the null hypothesis, corressopnding alternative and significant levels. Secondly, identfy and assess the truth of the null hypostesis as a statistical analysis. 3. Compute the p-value. 4. Compare the significant level and the p-value. 5. Determine the null hypothesis and generate a conclusiont of reject or fail to reject. 
+
+The overall interpertation of the t-test result findings were for the first lot data: suspension data, Manufacturing Lot 1
+= 0, df = 49, p-value = 1
+alternative hypothesis: true mean is not equal to 1500 meaning the observations and measurements used in our statistical test should have been attributed to random chance, but we attributed them to something else.
+95 percent confidence interval: 1499.719 1500.281. The sample estimates: mean of x  1500 
+
+
+![2022-11-06 15 32 26](https://user-images.githubusercontent.com/107796290/200193665-c42682ca-1c53-421b-9507-98f377f6b805.png)
+
+The Second overall interperation of the t-test results were data:  subset(suspension_data, Manufacturing_Lot == "Lot2")$PSI
+t = 0.51745, df = 49, p-value = 0.6072
+alternative hypothesis: true mean is not equal to 1500
+95 percent confidence interval:
+ 1499.423 1500.977
+sample estimates:
+mean of x 
+   1500.2 
