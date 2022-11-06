@@ -18,7 +18,7 @@ suffiencent to reject the null hypythosis.
     
     As you can see in the data for the multiple linear regression model for predictive modeling tool to measure p-value as 2.767e-06 so that this will be a fail to reject the null hypothesis which quantifies suffiencent level to reject the null hypothesis of the paired t-test. This implicates there is limited to no distribution difference across the mpg dataset. A well designed linear regression model should approximate the two data points with a strong interrelationship within the two or more data variables points. 
    
-   The Slope of the linear model as you can see is not considered to be 0 due to 
+   The Slope of the linear model as you can see is not considered to be 0 due to interrelated performance. 
     
     
  The Liner model predict mpg of MechaCar prototypes can be see as 
