@@ -32,7 +32,14 @@ suffiencent to reject the null hypythosis.
  Summary Statistics on Suspension Coils:
  
  Total summary of supsesion coils calcluating the mean, mode, variance and standard deviation.
- SUMMARY   
+
+Summary 
+![image](https://user-images.githubusercontent.com/107796290/200188693-061ce89d-146e-4944-8604-759b101eb1b1.png)
+
+
+
+
+Lot SUMMARY   
 ![image](https://user-images.githubusercontent.com/107796290/200187982-2b70c671-1bc2-4b16-812f-a8273c0841fe.png)
 
                                                
