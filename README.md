@@ -78,3 +78,11 @@ t = 0.51745, df = 49, probabilty value = 0.6072 alternative hypothesis: true mea
 ![image](https://user-images.githubusercontent.com/107796290/200194858-bfb0d56b-9af2-42f3-8d1d-fd19a5c40416.png)
 
 The third t-test results for data suspension data for Manufacturing Lot 3 t = -2.0916, df = 49, probability value is 0.04168 which is less than 0.05 as per the Shapiro-Wilk test for p-value.  The t-test results were alternative hypothesis, stated true mean is not equal to 1500. This mean that if the dataset is smaller or the skewness is overall fewer than the distribution more action is needed. As a result, 95 percent confidence interval:1492.431 1499.849. The sample estimates is the mean of 1496.14.
+
+                                            *********************************************
+**
+Deliverable 4
+## Study Designs: MechaCar vs Competition
+
+The statistical analysis was designed to study comparing MechaCar to the Competition. The cost and city highway fuel effiency was reviewed to compare against the competitors. 
+
