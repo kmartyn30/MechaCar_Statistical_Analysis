@@ -44,7 +44,7 @@ Lot SUMMARY
 
                                                
 
-The MechaCar suspension coils imposed that the variaence must not outperforne the 100 pounds per square inch for the suspesion coils. The prevailing manufacturing data             this designs specification baedon the lot total for manufacturing lots and indivdual lot seperatly. 
+The MechaCar suspension coils imposed that the varience must not out perform the 100 pounds per square inch for the suspension coils. The prevailing manufacturing data             this designs specification baed on the three manufacturing lots. 
 
 This was determined by ________
 
