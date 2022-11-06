@@ -1,4 +1,5 @@
 # MechaCar_Statistical_Analysis- R language ggplot and statistics
+**Deliverable 1:**
 
 ## Linear regression to Predict MPG
     The linear regression model is on a dataset containing 50 mpg test results for fifty MechaCars. The MechaCar prototypes were bsed on the idea 
@@ -30,5 +31,25 @@ suffiencent to reject the null hypythosis.
     
 
    
-   
-   
+                                                  ** Deliverable 2:
+
+                                                   Summary Statistics on Suspension Coils
+                                                   **
+
+
+The MechaCar suspension coils imposed that the variaence must not outperforne the 100 pounds per square inch for the suspesion coils. The prevailing manufacturing data             this designs specification baedon the lot total for manufacturing lots and indivdual lot seperatly. 
+
+This was determined by ________
+
+
+
+
+
+
+
+**                                                **Deliverable 3
+                                                **      
+                                                T-Tests on Suspension Coils
+**
+
+The overall interpertaltion of the t-test result findings were:
