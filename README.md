@@ -98,7 +98,8 @@ hypothiss or alternative hypothesis; a statistical test for assessing the hypoth
 run the statistical test. The hypothesis test  will show how the dataset in which there are five steps to the process. This is an overview of the process 
 for the three lots statistical results and outcomes. 
   First the metric or metrics test the vechicle weight and the horse power of the car. The horse power is a point of pick up or speed of the car. 
-  Secondly would be the null hypothesis or alternative hypothesis, of
+  Secondly would be the null hypothesis or alternative hypothesis, of Ho : PH = 0.5 Ha: PH not equal 0.5
+       
   ![image](https://user-images.githubusercontent.com/107796290/200202328-9302251a232-4a77-b1b5-c6c7c856278d.png)
   The results would implicate by random chance without influnces when null respults is repsented in the test. If fould insufficient then extensive
   staticical data testing must be continued. If the null hypothesis is true use the probability vlaue or p-value. 
