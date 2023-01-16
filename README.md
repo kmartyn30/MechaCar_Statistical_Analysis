@@ -12,7 +12,7 @@
   
   
   
-  In our analysis, we implemented the function of lm() to create the data frame. This then implicated the variables and correlation to the coefficients 
+  In this analysis I implemented the function of lm() to create the data frame. This then implicated the variables and correlation to the coefficients 
   with r-values as multiple R-squared" 0.7085 which is utilized as a powereful tool to determine the quantified realtion between the variables and 
   predicatively can be utilized as a influencial decision making within the prcess baed on the meanfulness to the model.
   The R-squared is 0.7085 which is 71% approzimately of the variables of the dependnet variables which is moderate strength correlation.  The p-value of  
