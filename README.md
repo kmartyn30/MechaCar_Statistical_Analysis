@@ -103,14 +103,13 @@ for the three lots statistical results and outcomes.
   Secondly would be the null hypothesis or alternative hypothesis, of Ho : PH = 0.5 Ha: PH not equal 0.5
        
   ![image](https://user-images.githubusercontent.com/107796290/200202328-9302251a232-4a77-b1b5-c6c7c856278d.png)
-  The results would implicate by random chance without influnces when null respults is repsented in the test. If fould insufficient then extensive
+  The results would implicate by random chance without influnces when null results is represented in the test. If fould insufficient then extensive
   staticical data testing must be continued. If the null hypothesis is true use the probability vlaue or p-value. 
-  Thirdly the statical test use to test the hypothesis with the probability value vs the significant level also refered to as alhpa. This design is to
+  Thirdly, the statical test use to test the hypothesis with the probability value vs the significant level also referred to as alhpa. This design is to
   determine the importance on the dataset findings. When the significance level is 0.05 it is sufficient. However it can be small of using a marginal
   smaller dataset. 
- Next the data need to run a statistical test, computing the p-value using statistical anaylsis, then compare to the p-value to the significant level and
- lastly Generate a conclusion by determining if fail to reject or reject the null hypothesis is in the tested dataset.  
-  gereate the null hypothesis, corressopnding alternative and significant levels. 
+        Next,the data need to run a statistical test, computing the p-value using statistical anaylsis, then compare to the p-value to the significant level. Lastly, generate conclusion by determining if fail to reject or reject the null hypothesis is in the tested dataset.  
+  generate the null hypothesis, corresponding alternative and significant levels. 
 
 
 
